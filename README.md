@@ -39,6 +39,7 @@
 - [Configuration](#configuration)
   - [Discord Rich Presence](#discord-rich-presence)
   - [Anonymous Song Counter](#anonymous-song-counter)
+  - [GitHub Profile Widget](#github-profile-widget)
 - [Plugins](#plugins)
 - [Performance](#performance)
 - [Playback Requirements](#playback-requirements)
